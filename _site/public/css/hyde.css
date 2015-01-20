@@ -55,7 +55,7 @@ html {
 
 /* This bit controls the padding and colour in the banner */
 .sidebar {
-  text-align: center;
+  text-align: right;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
