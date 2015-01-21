@@ -74,6 +74,23 @@ html {
 }
 */
 
+THIS GOES IN THE HYDE.CSS
+/* Sidebar images */
+@media (max-width: 48em) {
+  .sidebar img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+img.sidebar-icon {
+  display: inline;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
