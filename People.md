@@ -10,7 +10,7 @@ title: People
 **Sayed Iftekhar**, Research Associate Professor, School of Agricultural & Resource Economics
 
 <p>
-<img class="right" src="{{ site.baseurl }}public/images/Sayed.jpg"> 
+<img class="right" src="{{ site.baseurl }}images/sayed.jpg"alt="" title="">
 </p>
 
 <p> I am an environmental and resource economist. I have experience in using many tools such as laboratory and field experiments, agent based modelling, bio-economic modelling and community surveys. I have research interests on many aspects of natural resource and environmental management, such as, agri-environmental service payment, inter-generational equity, role of social networks, endogenous network formation, coordination games,  preferences of equity norms, equity-efficiency trade-offs, risk aversion in public decision making, mechanism design and non-market valuation of water resources. </p>
