@@ -10,13 +10,11 @@ title: People
 **Sayed Iftekhar**, Research Associate Professor, School of Agricultural & Resource Economics
 
 <p>
-
-<img src="/images/sayed.jpg">
+<img class="right" src="{{ site.baseurl }}images/sayed.png"alt="" title="">
 </p>
-
 <p> I am an environmental and resource economist. I have experience in using many tools such as laboratory and field experiments, agent based modelling, bio-economic modelling and community surveys. I have research interests on many aspects of natural resource and environmental management, such as, agri-environmental service payment, inter-generational equity, role of social networks, endogenous network formation, coordination games,  preferences of equity norms, equity-efficiency trade-offs, risk aversion in public decision making, mechanism design and non-market valuation of water resources. </p>
 
-Representative publications
+Representative publications:
 
 * **Iftekhar, M. S.,** & Tisdell, J. G. (2014). Wildlife corridor market design: An experimental analysis of the impact of project selection criteria and bidding flexibility. *Ecological Economics, 104,* 50-60. 
 
