@@ -55,7 +55,7 @@ html {
 
 /* This bit controls the padding and colour in the banner */
 .sidebar {
-  text-align: right;
+  text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
@@ -74,7 +74,7 @@ html {
 }
 */
 
-THIS GOES IN THE HYDE.CSS
+
 /* Sidebar images */
 @media (max-width: 48em) {
   .sidebar img {
@@ -97,10 +97,10 @@ img.sidebar-icon {
 }
 
 /* About section */
-.sidebar-about h1 {
+.sidebar-about h2 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  font-family: "Arial", serif;
   font-size: 3.25rem;
 }
 

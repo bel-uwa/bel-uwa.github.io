@@ -11,36 +11,3 @@ title: Home
 <p> The BEL at UWA is a computer lab of just under 20 machines that are interconnected to allow real-time interactions between lab participants, either individually or as groups. The main purpose of the three founding entities was to study human behaviour with respect to the natural environment. Issues such as contribution to public environmental goods, participation in environmental auctions, the willingness to co-operate to achieve super-additive environmental outcomes, the role of perceived fairness, risk prevention and willingness to pay for it, and the factors influencing the effectiveness of information or education campaigns on environmental behaviour are some of the areas on the current research agenda. </p>
 
 <p> A number of Masters and PhD students have begun or will start using the lab to carry out experiments investigating some of the above issues, and current as well as new research projects are under way. </p>
-
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
