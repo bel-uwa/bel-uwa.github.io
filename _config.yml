@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            
-tagline:          Behavioural Economics Laboratory
-description:      'University of Western Australia'
+title:            Behavioural Economics Laboratory
+tagline:          ???
+description:      'Room 3.06, 3rd Floor<p>School of Psychology<p>University of Western Australia'
 url:              http://bel-uwa.github
 baseurl:          /
 
