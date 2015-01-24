@@ -190,8 +190,44 @@ a.bottombar-nav-item:focus {
 
 .footer a:link,
 .footer a:visited {
-  color: #aa759f; /* This makes bottom text purple ... */
+  color: #aa759f; 
+}  
+
+
+/* 
+ *Footer
+ */
+ 
+.footer {
+  background-color: #aa759f;
+  color: #aaa;
+  padding: 2em 0 0;
 }
+
+
+.howdy,
+.colo {
+  text-align: left;
+  display: inline-block;
+  padding: 0 8px 0 8px;
+  margin:2em 0 0;
+  vertical-align: top;
+  position:relative;
+}
+
+
+@media all and (min-width: 600px) {
+
+  .howdy {
+    width:50%;
+    margin-right: 32px;
+  }
+  .colo {
+    width: 35%;
+    padding-left: 0;
+  }
+}
+
 
 /*
  * Themes
@@ -275,16 +311,17 @@ a.bottombar-nav-item:focus {
 }
 
 
-/*
- * Footer
- */ 
+
+
 
 /*
+ * Footer
+  
+
 .footer {
   background-color: #aa759f;
   color: #aaa;
   padding: 2em 0 0;
-  font-size: 0.8em;
 }
 
 .footer .container {
@@ -299,7 +336,7 @@ a.bottombar-nav-item:focus {
 .footer div.nav {
   margin-bottom: 1rem;
   display: inline; 
-  text-align: center; 
+  text-align: left; 
   background-color: #aa759f;
   margin:3em 2 2;
   padding: 1em 0 0 0;
@@ -319,24 +356,20 @@ a.bottombar-nav-item:focus {
  
 .footer a:link,
 .footer a:visited {
-  color: #aa759f; /* This makes bottom text purple ... */
+  color: #aa759f; /* This makes bottom text purple ... 
 }
 
-/*
+
 .howdy,
 .colo {
-  text-align: center;
-  display: inline;
+  text-align: left;
+  display: inline-block;
   padding: 0 8px 0 8px;
   margin:2em 0 0;
   vertical-align: top;
   position:relative;
 }
 
-
-.face {
-  display: none;
-}
 
 @media all and (min-width: 600px) {
 
@@ -349,5 +382,5 @@ a.bottombar-nav-item:focus {
     padding-left: 0;
   }
 }
-
 */
+
