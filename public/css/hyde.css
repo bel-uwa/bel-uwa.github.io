@@ -49,8 +49,6 @@ html {
 /*
  * Sidebar
  *
- * Flexible banner for housing site name, intro, and "footer" content. Starts
- * out above content in mobile and later moves to the side with wider viewports.
  */
 
 /* This bit controls the padding and colour in the banner */
@@ -60,19 +58,6 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
-
-/*
-@media (min-width: 48em) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 18rem;
-    text-align: left;
-  }
-}
-*/
 
 
 /* Sidebar images */
@@ -124,7 +109,7 @@ a.sidebar-nav-item:focus {
 
 
 /*
- * *NEW* Container
+ * Container
  *
  * Center the page content.
  */
@@ -146,8 +131,140 @@ a.sidebar-nav-item:focus {
     max-width: 38rem;
   }
 } 
+
+
+/* This bit controls the padding and colour in the banner */
+.bottombar {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: rgba(255,255,255,.5);
+  background-color: #292929;
+}
+
+
+/* Sidebar images */
+@media (max-width: 48em) {
+  .bottombar img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+img.bottombar-icon {
+  display: inline;
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+
+/* Sidebar links */
+.bottombar a {
+  color: #fff;
+}
+
+/* About section */
+.bottombar-about h3 {
+  color: #fff;
+  margin-top: 0;
+  font-family: "Arial", serif;
+  font-size: 3.25rem;
+}
+
+ bottombar nav 
+.bottombar-nav {
+  margin-bottom: 1rem;
+  display: inline-block;
+}
+.bottombar-nav-item {
+  display: inline;
+  padding: 0 8px 0 8px;
+}
+a.bottombar-nav-item:hover,
+a.bottombar-nav-item:focus {
+  text-decoration: underline;
+}
+.bottombar-nav-item.active {
+  font-weight: bold;
+}
+*/
+
+
+/*
+ * Footer
+ */ 
+
+/*
+.footer {
+  background-color: #292929;
+  color: #aaa;
+  padding: 2em 0 0;
+  font-size: 0.8em;
+}
+
+.footer .container {
+  padding: $content-buffer $content-buffer 0;
+}
+
+.footer h2 {
+  color: #aa759f;
+  margin-top:0;
+}
+
+.footer div.nav {
+  margin-bottom: 1rem;
+  display: inline; 
+  text-align: center; 
+  background-color: #aa759f;
+  margin:3em 2 2;
+  padding: 1em 0 0 0;
+}
+
+.footer .nav a:link,
+.footer .nav a:visited {
+  color: #ccc;
+}
+
+.footer .nav a.home:link,
+.footer .nav a.home:visited {
+  padding:0.1em 0.4em 3em;
+  color: #222;
+  background-color: #f0f0f0;
+}
  
- 
+.footer a:link,
+.footer a:visited {
+  color: #fff;
+}
+
+.howdy,
+.colo {
+  text-align: center;
+  display: inline;
+  padding: 0 8px 0 8px;
+  margin:2em 0 0;
+  vertical-align: top;
+  position:relative;
+}
+
+
+.face {
+  display: none;
+}
+
+@media all and (min-width: 600px) {
+
+  .howdy {
+    width:50%;
+    margin-right: 32px;
+  }
+  .colo {
+    width: 35%;
+    padding-left: 0;
+  }
+}
+
+*/
 
 /*
  * Themes
