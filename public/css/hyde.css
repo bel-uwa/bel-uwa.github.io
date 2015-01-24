@@ -187,84 +187,11 @@ a.bottombar-nav-item:focus {
 .bottombar-nav-item.active {
   font-weight: bold;
 }
-*/
 
-
-/*
- * Footer
- */ 
-
-/*
-.footer {
-  background-color: #292929;
-  color: #aaa;
-  padding: 2em 0 0;
-  font-size: 0.8em;
-}
-
-.footer .container {
-  padding: $content-buffer $content-buffer 0;
-}
-
-.footer h2 {
-  color: #aa759f;
-  margin-top:0;
-}
-
-.footer div.nav {
-  margin-bottom: 1rem;
-  display: inline; 
-  text-align: center; 
-  background-color: #aa759f;
-  margin:3em 2 2;
-  padding: 1em 0 0 0;
-}
-
-.footer .nav a:link,
-.footer .nav a:visited {
-  color: #ccc;
-}
-
-.footer .nav a.home:link,
-.footer .nav a.home:visited {
-  padding:0.1em 0.4em 3em;
-  color: #222;
-  background-color: #f0f0f0;
-}
- 
 .footer a:link,
 .footer a:visited {
-  color: #fff;
+  color: #aa759f; /* This makes bottom text purple ... */
 }
-
-.howdy,
-.colo {
-  text-align: center;
-  display: inline;
-  padding: 0 8px 0 8px;
-  margin:2em 0 0;
-  vertical-align: top;
-  position:relative;
-}
-
-
-.face {
-  display: none;
-}
-
-@media all and (min-width: 600px) {
-
-  .howdy {
-    width:50%;
-    margin-right: 32px;
-  }
-  .colo {
-    width: 35%;
-    padding-left: 0;
-  }
-}
-
-*/
 
 /*
  * Themes
@@ -346,3 +273,81 @@ a.bottombar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+
+/*
+ * Footer
+ */ 
+
+/*
+.footer {
+  background-color: #aa759f;
+  color: #aaa;
+  padding: 2em 0 0;
+  font-size: 0.8em;
+}
+
+.footer .container {
+  padding: $content-buffer $content-buffer 0;
+}
+
+.footer h2 {
+  color: #aa759f;
+  margin-top:0;
+}
+
+.footer div.nav {
+  margin-bottom: 1rem;
+  display: inline; 
+  text-align: center; 
+  background-color: #aa759f;
+  margin:3em 2 2;
+  padding: 1em 0 0 0;
+}
+
+.footer .nav a:link,
+.footer .nav a:visited {
+  color: #ccc;
+}
+
+.footer .nav a.home:link,
+.footer .nav a.home:visited {
+  padding:0.1em 0.4em 3em;
+  color: #222;
+  background-color: #f0f0f0;
+}
+ 
+.footer a:link,
+.footer a:visited {
+  color: #aa759f; /* This makes bottom text purple ... */
+}
+
+/*
+.howdy,
+.colo {
+  text-align: center;
+  display: inline;
+  padding: 0 8px 0 8px;
+  margin:2em 0 0;
+  vertical-align: top;
+  position:relative;
+}
+
+
+.face {
+  display: none;
+}
+
+@media all and (min-width: 600px) {
+
+  .howdy {
+    width:50%;
+    margin-right: 32px;
+  }
+  .colo {
+    width: 35%;
+    padding-left: 0;
+  }
+}
+
+*/
