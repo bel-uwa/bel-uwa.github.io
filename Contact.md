@@ -5,7 +5,7 @@ title: Contact
 
 <br>
 ## Location
-The Behavioural Economics Laboratory is located in room 3.06 on the third floor of the School of Psychology building at the University of Western Australia. The laboratory is accessible by stairs or by lift.
+The Behavioural Economics Laboratory is located in **room 3.06** on the third floor of the School of Psychology building at the University of Western Australia. The laboratory is accessible by stairs or by lift.
 
 <p> If you require directions to the school you can access a map of the university campus from <a href="http://www.uwa.edu.au/contact/map?id=1911">here.</a> </p>
   
