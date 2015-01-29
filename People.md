@@ -7,6 +7,30 @@ title: People
 
 <br>
 
+# Staff
+
+## Michael Burton 
+Professor, School of Agricultural & Resource Economics, UWA
+<br> <a href="http://www.uwa.edu.au/people/michael.burton">UWA personal page</a>
+
+-----
+<br>
+
+
+## Simon Farrell 
+ARC Future Fellow, School of Psychology, UWA
+<br> <a href="http://www.psychology.uwa.edu.au/contact/staff?type=profile&dn=cn%3DSimon%20Farrell%2Cou%3DResearch%20Section%20(Psychology)%2Cou%3DSchool%20of%20Psychology%2Cou%3DFaculty%20of%20Science%2Cou%3DFaculties%2Co%3DThe%20University%20of%20Western%20Australia">UWA personal page</a>
+
+-----
+<br>
+
+## Mark Hurlstone 
+Assistant Professor, School of Psychology, UWA
+<br> <a href="http://www.uwa.edu.au/people/mark.hurlstone">UWA personal page</a>
+
+-----
+<br>
+
 ## Sayed Iftekhar 
 Research Associate Professor, School of Agricultural & Resource Economics, UWA
 <br> <a href="http://www.are.uwa.edu.au/contact/staff?type=profile&dn=cn%3DSayed%20Iftekhar%2Cou%3DSchool%20of%20Agricultural%20and%20Resource%20Economics%2Cou%3DFaculty%20of%20Science%2Cou%3DFaculties%2Co%3DThe%20University%20of%20Western%20Australia">UWA personal page</a>
@@ -26,7 +50,17 @@ Research Associate Professor, School of Agricultural & Resource Economics, UWA
 
 * Tisdell, J. G., & **Iftekhar, M. S.** (2013). [Fisheries quota allocation: Laboratory experiments on simultaneous and combinatorial auctions.](/TI.13.MP.pdf) *Marine Policy, 38(2),* 228-234. 
 
+-----
 <br>
+
+
+## Zoe Leviston
+Research Scientist, Centre for Environment and Life Sciences, CSIRO 
+<br> <a href="http://www.csiro.au/Organisation-Structure/Divisions/Ecosystem-Sciences/Zoe-Leviston.aspx">CSIRO personal page</a>
+
+-----
+<br>
+
 
 ## Steven Schilizzi 
 Associate Professor, School of Agricultural & Resource Economics, UWA
@@ -49,19 +83,35 @@ Steven will be supervising a PhD student who will be using experiments to study 
  
 * **Schilizzi, S.,** & Iftekhar, M. S. (2015). [Context and self-serving bias in equity choices.](/SI.15.AARES.pdf) *Selected Paper to the 59th AARES Annual Conference, Rotorua, New Zealand, 10-13  February 2015*. (Currently being revised for journal publication.) 
 
+-----
 <br>
 
+
+
+## Sorada Tapsuwan
+Research Scientist, Centre for Environment and Life Sciences, CSIRO 
+<br> <a href="http://www.csiro.au/Organisation-Structure/Divisions/Ecosystem-Sciences/SoradaTapsuwan.aspx">CSIRO personal page</a>
+
+-----
+<br>
+
+## Iain Walker
+Professor and programme leader, Centre for Environment and Life Sciences, CSIRO 
+<br> <a href="http://www.csiro.au/Organisation-Structure/Divisions/Ecosystem-Sciences/IainWalker.aspx">CSIRO personal page</a>
+
+-----
+<br>
+
+ 
 ## Benedict White 
 Professor, School of Agricultural & Resource Economics, UWA
 <br> <a href="http://www.are.uwa.edu.au/contact/staff?type=profile&dn=cn%3DBenedict%20White%2Cou%3DSchool%20of%20Agricultural%20and%20Resource%20Economics%2Cou%3DFaculty%20of%20Science%2Cou%3DFaculties%2Co%3DThe%20University%20of%20Western%20Australia">UWA personal page</a>
 
-**Research interests**
-<p>TBC</p>
+<br>
 
-**Representative publications**
+## Post-Doctoral Researhers
 
-* P1
+<br>
 
-* P2
 
-* P3
+## PhD Candidates

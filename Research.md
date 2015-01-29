@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-<!-->
+<!--
 To study human behaviour in interaction with other individuals, groups, organizations, markets, and the natural environment. 
 
 
@@ -28,3 +28,4 @@ The Department of Management’s faculty produce outstanding scholarly research 
 
 * Exploring how people sample information from memory in order make evaluations and predictions
 * Integrating theories of memory with decision making models   
+-->
