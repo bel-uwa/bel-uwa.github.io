@@ -13,7 +13,6 @@
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 	  <a class="sidebar-nav-item{% if page.title == "News" %} active{% endif %}" href="/News/">News</a>
-
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
@@ -28,6 +27,6 @@
         {% endif %}
       {% endfor %}
 	
-    <!--<p><br>&copy; {{ site.time | date: '%Y' }}. BEL@UWA all rights reserved.</p> -->
+    <br><br>&copy; {{ site.time | date: '%Y' }}. BEL@UWA all rights reserved.
   </div>
 </div>
