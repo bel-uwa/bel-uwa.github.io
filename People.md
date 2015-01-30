@@ -9,6 +9,19 @@ title: People
 Professor, School of Agricultural & Resource Economics, UWA
 <br> <a href="http://www.uwa.edu.au/people/michael.burton">UWA personal page</a>
 
+<img class="right" src="{{ site.baseurl }}images/michael.jpg"alt="" title="Michael Burton">
+
+**Research interests**
+<p> My research has primarily been in the area of individual behaviour and choice, with an emphasis on consumer demand, farmer behaviour and non-market valuation techniques. Much of that research has been based on stated preference surveys, with an interest in extending our understanding of what underlies heterogeneity in peoples responses. I have 77 publications in refereed journals, and an H-index of 18 on both ISI and Scopus data bases. In recent years I have been responsible for winning grants involving CSIRO Flagship programs, a CSIRO Cluster, and a CERF Research Hub. I have supervised 16 PhD students to completion. </p>
+
+**Representative publications**
+
+* Rigby, D., **Burton, M.,** Balcombe, K., Bateman, I., & Mulatu, A. (forthcoming). [Contract Cheating & the Market in Essays.](/RBBBM.JEBO.15.pdf) *Journal of Economic Behavior & Organization.* 
+
+* Rigby, D., **Burton, M.,** & Lusk, J.  (forthcoming). [Journals, Preferences and Publishing in Agricultural and Environmental Economics.](/RBL.15.AJAE.15.pdf) *American Journal Of Agricultural Economics.*
+
+* Gibson, F., & **Burton, M.** (2014). [Salt or Sludge? Exploring Preferences for Potable Water Sources.](/GB.14.ERC.pdf) *Environmental and Resource Economics, 57,* 453–476.
+
 -----
 
 ## Simon Farrell 
@@ -66,6 +79,25 @@ Research Scientist, Centre for Environment and Life Sciences, CSIRO
 
 -----
 
+
+## David Pannell 
+Professor and Head of School, School of Agricultural & Resource Economics, UWA
+<br><a href="http://www.uwa.edu.au/people/david%20pannell">UWA personal page</a>
+
+<img class="right" src="{{ site.baseurl }}images/david.jpg"alt="" title="David Pannell">
+
+David Pannell is Winthrop Professor and Head of School of Agricultural and Resource Economics, University of Western Australia; Director, Centre for Environmental Economics and Policy; ARC Federation Fellow (2007-2012); Distinguished Fellow and past president of the Australian Agricultural and Resource Economics Society; and Fellow of the Academy of Social Sciences in Australia. He has been a prominent commentator on environmental policy within Australia, arguing for policies that better reflect scientific, economic and social realities. He was a director on the Board of Land and Water Australia 2002-05. His research includes the economics of land and water conservation; environmental policy; farmer adoption of conservation practices; risk; and economics of farming systems. His research has been published in seven books and 200 journal articles and book chapters, and has been recognised with awards from the USA, Australia, Canada and the UK, including the 2009 ARC Eureka Prize for Interdisciplinary Research.
+
+**Representative publications**
+
+* **Pannell, D. J.,** Marshall, G. R., Barr, N., Curtis, A., Vanclay, F., & Wilkinson, R. (2006). [Understanding and promoting adoption of conservation practices by rural landholders.](/PMBCVW.06.AJEA.pdf) *Australian Journal of Experimental Agriculture 46(11),* 1407-1424.
+
+* Doole, G., & **Pannell, D. J.** (2012). [Empirical evaluation of nonpoint pollution policies under agent heterogeneity: regulating intensive dairy production in the Waikato region of New Zealand.](/DP.12.AJARC.pdf) *Australian Journal of Agricultural and Resource Economics 56(1),* 82-101.
+
+* Llewellyn, R.S., & **Pannell, D.J.** (2009). [Managing the herbicide resource: an evaluation of extension on management of herbicide-resistant weeds.](/LP.09.ABF.pdf) *AgBioForum 12(3&4),* 358-369.
+
+-----
+
 ## Steven Schilizzi 
 Associate Professor, School of Agricultural & Resource Economics, UWA
 <br> <a href="http://www.are.uwa.edu.au/contact/staff?type=profile&dn=cn%3DSteven%20Schilizzi%2Cou%3DSchool%20of%20Agricultural%20and%20Resource%20Economics%2Cou%3DFaculty%20of%20Science%2Cou%3DFaculties%2Co%3DThe%20University%20of%20Western%20Australia">UWA personal page</a>
@@ -90,6 +122,18 @@ Steven will be supervising a PhD student who will be using experiments to study 
 ## Sorada Tapsuwan
 Research Scientist, Centre for Environment and Life Sciences, CSIRO 
 <br> <a href="http://www.csiro.au/Organisation-Structure/Divisions/Ecosystem-Sciences/SoradaTapsuwan.aspx">CSIRO personal page</a>
+
+<img class="right" src="{{ site.baseurl }}images/sorada.jpg"alt="" title="Sorada Tapsuwan">
+
+<p> I am a resource economist with specialization in non-market valuation of environmental assets. My research interests include understanding why people value the environment, and what are the factors that affect people’s willingness to pay for environmental assets. I’m particularly interested in exploring how socio-economic factors and social psychological factors play a role in influencing people’s preferences for the environment, and how to design incentives to engage people in pro-environmental behaviour. I have worked across many research domains, including marine park management, urban water demand and supply management, rural and irrigation water management, transportation choice, land use management, technology adoption, and climate change. </p>
+
+**Representative publications**
+
+* **Tapsuwan, S.,** Hunink, J., Alcon, F., Mertens-Palomares, A. N., & Bailen, A (2015). [Assessing the acceptabiliby of a model based irrigation advistory bulletin: The importance of a participatory approach.](/THAMB.15.ID.pdf) *Irrigation & Drainage.*
+ 
+* **Tapsuwan, S.,** Polyakov, M., Bark, R., & Nolan, M. (2015). [Valuing the Barmah-Millewa Forest and in stream river flows: A spatial heteroskedasticity and autocorrelation consistent (SHAC) approach.](/TPBN.15.EE.pdf) *Ecological Economics, 110(2015),* 98-105.
+ 
+* **Tapsuwan, S.,** Burton, M., Mankad, A., Tucker, D., & Greenhill, M. (2014). [Adapting to less water: Household willingness to pay for decentralised water systems in urban Australia.](/TBMTG.14.WRM.pdf) *Water Resources Management, 28(4),* 1111-1125.
 
 -----
 
@@ -120,6 +164,6 @@ Professor, School of Agricultural & Resource Economics, UWA
 
 <br>
 <div class="message">
-**Copyright Notice:** Some of the documents listed above are available for downloading. These have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
+*Copyright Notice:* Some of the documents listed above are available for downloading. These have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be re-posted without the explicit permission of the copyright holder.
 </div>
 
