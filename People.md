@@ -24,15 +24,28 @@ Professor, School of Agricultural & Resource Economics, UWA
 
 -----
 
-## Simon Farrell 
+<!-- ## Simon Farrell 
 ARC Future Fellow, School of Psychology, UWA
 <br> <a href="http://www.psychology.uwa.edu.au/contact/staff?type=profile&dn=cn%3DSimon%20Farrell%2Cou%3DResearch%20Section%20(Psychology)%2Cou%3DSchool%20of%20Psychology%2Cou%3DFaculty%20of%20Science%2Cou%3DFaculties%2Co%3DThe%20University%20of%20Western%20Australia">UWA personal page</a>
 
------
+-->
 
 ## Mark Hurlstone 
 Assistant Professor, School of Psychology, UWA
 <br> <a href="http://www.uwa.edu.au/people/mark.hurlstone">UWA personal page</a>
+
+<img class="right" src="{{ site.baseurl }}images/mark.jpg"alt="" title="Mark Hurlstone">
+
+**Research interests**
+<p> Assistant Professor Mark Hurlstone is a cognitive scientist in the School of Psychology at the University of Western Australia. He has a Bachelor’s Degree in Psychology from the University of Leicester (UK), and Master’s and Doctoral Degrees from the University of York (UK). His research interests include working memory; auditory distraction and cognitive performance; reasoning and decision making; and computational modelling of cognitive processes. His research also examines how insights from psychology and behavioural economics can be harnessed to improve science communication, especially in relation to climate change. Further information about his research can be found on his academic <a href="http://mark-hurlstone.github.io">homepage</a>. </p>
+
+**Representative publications**
+
+* **Hurlstone, M. J.,** & Hitch, G. J. (2015). [How is the serial order of a spatial sequence represented? Insights from transposition latencies.](/HH.15.JEPLMC.pdf) *Journal of Experimental Psychology: Learning, Memory & Cognition.*
+
+* **Hurlstone, M. J.,** Hitch, G. J., & Baddeley, A. D. (2014). [Memory for serial order across domains: An overview of the literature and directions for future research.](/HHB.14.PB.pdf) *Psychological Bulletin, 140,* 339-373.
+
+* **Hurlstone, M. J.,** Lewandowsky, S., Newell, B., & Sewell, B. (2014). [The role of framing and normative messages in building support for climate policies.](HLNS.14.PLoS.ONE.pdf) *PLoS ONE.*
 
 -----
 
@@ -86,7 +99,7 @@ Professor and Head of School, School of Agricultural & Resource Economics, UWA
 
 <img class="right" src="{{ site.baseurl }}images/david.jpg"alt="" title="David Pannell">
 
-David Pannell is Winthrop Professor and Head of School of Agricultural and Resource Economics, University of Western Australia; Director, Centre for Environmental Economics and Policy; ARC Federation Fellow (2007-2012); Distinguished Fellow and past president of the Australian Agricultural and Resource Economics Society; and Fellow of the Academy of Social Sciences in Australia. He has been a prominent commentator on environmental policy within Australia, arguing for policies that better reflect scientific, economic and social realities. He was a director on the Board of Land and Water Australia 2002-05. His research includes the economics of land and water conservation; environmental policy; farmer adoption of conservation practices; risk; and economics of farming systems. His research has been published in seven books and 200 journal articles and book chapters, and has been recognised with awards from the USA, Australia, Canada and the UK, including the 2009 ARC Eureka Prize for Interdisciplinary Research.
+David Pannell is Professor and Head of School of Agricultural and Resource Economics, University of Western Australia; Director, Centre for Environmental Economics and Policy; ARC Federation Fellow (2007-2012); Distinguished Fellow and past president of the Australian Agricultural and Resource Economics Society; and Fellow of the Academy of Social Sciences in Australia. He has been a prominent commentator on environmental policy within Australia, arguing for policies that better reflect scientific, economic and social realities. He was a director on the Board of Land and Water Australia 2002-05. His research includes the economics of land and water conservation; environmental policy; farmer adoption of conservation practices; risk; and economics of farming systems. His research has been published in seven books and 200 journal articles and book chapters, and has been recognised with awards from the USA, Australia, Canada and the UK, including the 2009 ARC Eureka Prize for Interdisciplinary Research.
 
 **Representative publications**
 
@@ -94,7 +107,7 @@ David Pannell is Winthrop Professor and Head of School of Agricultural and Resou
 
 * Doole, G., & **Pannell, D. J.** (2012). [Empirical evaluation of nonpoint pollution policies under agent heterogeneity: regulating intensive dairy production in the Waikato region of New Zealand.](/DP.12.AJARC.pdf) *Australian Journal of Agricultural and Resource Economics 56(1),* 82-101.
 
-* Llewellyn, R.S., & **Pannell, D.J.** (2009). [Managing the herbicide resource: an evaluation of extension on management of herbicide-resistant weeds.](/LP.09.ABF.pdf) *AgBioForum 12(3&4),* 358-369.
+* Llewellyn, R.S., & **Pannell, D. J.** (2009). [Managing the herbicide resource: an evaluation of extension on management of herbicide-resistant weeds.](/LP.09.ABF.pdf) *AgBioForum 12(3&4),* 358-369.
 
 -----
 
@@ -156,11 +169,22 @@ Professor and programme leader, Centre for Environment and Life Sciences, CSIRO
 
 -----
  
-## Benedict White 
+## Susie Wang 
+PhD Candidate, School of Psychology, UWA
+<br> <a href="http://www.psychology.uwa.edu.au/research/postgrads?susie.wang">UWA personal page</a> 
+ 
+<img class="right" src="{{ site.baseurl }}images/susie.png"alt="" title="Susie Wang" >
+ 
+**Research interests** 
+<p> I am a social and environmental psychology PhD student at UWA and have a studentship with the CSIRO's Land & Water flagship. My research focuses on the psychological and social factors that predict engagement with climate change and pro-environmental behaviours. I am currently exploring ideas such as psychological distance, construal level, field theory, embodied cognition and social networks. The scope of my research, and my interest in behavioural economics extends to areas such as discounting (time, and other types of discounting, such as social and spatial), cognitive biases, and public goods games. In 2014, I tutored the third year <a href="http://www.unitoutlines.science.uwa.edu.au/Units/PSYC3310/SEM-2/2014/CRAWLEY/ ">Behavioural Economics</a> unit at UWA (PSYC3310 Special Topics), and held a seminar on social preferences in decision-making. </p>
+  
+----- 
+
+<!-- ## Benedict White 
 Professor, School of Agricultural & Resource Economics, UWA
 <br> <a href="http://www.are.uwa.edu.au/contact/staff?type=profile&dn=cn%3DBenedict%20White%2Cou%3DSchool%20of%20Agricultural%20and%20Resource%20Economics%2Cou%3DFaculty%20of%20Science%2Cou%3DFaculties%2Co%3DThe%20University%20of%20Western%20Australia">UWA personal page</a>
+-->
 
------
 
 <br>
 <div class="message">
