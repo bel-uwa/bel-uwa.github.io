@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Behavioural Economics Laboratory
 tagline:          BEL@UWA
-description:      'University of Western Australia <p>'
+description:      'University of Western Australia <br>'
 url:              http://bel-uwa.github
 baseurl:          /
 
