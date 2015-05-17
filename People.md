@@ -128,7 +128,7 @@ Steven will be supervising a PhD student who will be using experiments to study 
  
 * **Schilizzi S.,** & Latacz-Lohmann, U. (2013). [Conservation tenders: linking theory and experiments for policy assessment.](/SL.13.JARE.pdf) *Australian Journal of Agricultural & Resource Economics, 57(1),* 1-23.
 
-* **Schilizzi, S.** (2015). [Can we design an equity metric when stakeholders hold conflicting views about equity?](/S15.AARES.pdf) *Australian Agricultural & Resource Economics Society*.
+* **Schilizzi, S.** (2015). [Can we design an equity metric when stakeholders hold conflicting views about equity?](/S15.AARES.pdf) Selected Paper to the 58th AARES Annual Conference, Port Macquarie, New South Wales, 4-7 February 2014*.
  
 * **Schilizzi, S.,** & Iftekhar, M. S. (2015). [Context and self-serving bias in equity choices.](/SI.15.AARES.pdf) *Selected Paper to the 59th AARES Annual Conference, Rotorua, New Zealand, 10-13  February 2015*. (Currently being revised for journal publication.) 
 
