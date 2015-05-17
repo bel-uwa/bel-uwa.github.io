@@ -10,7 +10,7 @@ Are you interested in conducting a PhD in our lab? Why not peruse our people sec
 You can obtain more information about the PhD programme at The University of Western Australia <a href="http://www.studyat.uwa.edu.au/courses-and-careers/postgraduate-research/doctorates">here</a>. 
 
 ## Funding Opportunities
-For information about funding sources, follow the links below. Please note that this is not an exhaustive listing of all sources of funding available. 
+<p align="justify"> For information about funding sources, follow the links below. Please note that this is not an exhaustive listing of all sources of funding available. 
 
 * <a href="http://www.scholarships.uwa.edu.au/search?sc_view=1&id=341&page=1&q=Australian+Postgraduate+Award&s=1&old_key=0">Domestic Students </a>
 * <a href=http://www.scholarships.uwa.edu.au/future-students/postgrad/international> Overseas Students </a>

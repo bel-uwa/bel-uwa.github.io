@@ -17,4 +17,4 @@ Some current and future research themes being pursued within the lab include:
 * *Understanding and enhancing people's mental models of climate change*
 * *Exploring the psychological and social factors that predict engagement with climate change and pro-environmental behaviours*
 * *Using insights from behavioural economics to improve the communiction of climate science*
-* *Integrating models of memory with theories of decision making*
+* *Integrating models of memory with theories of decision making* 
