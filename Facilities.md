@@ -4,9 +4,11 @@ title: Facilities
 ---
 
 <br>
-## The Laboratory
+## The laboratory
 
-The BEL is a multidisciplinary and state of the art research facility for studying individual and dynamic group decision-making in a controlled experimental setting. It is a laboratory consisting of 19 PCs, separated by privacy blinds, which are interconnected in order to allow real-time interactions between lab participants, either individually or as groups. The BEL contains a projector and screen for the delivery of experimental instructions, and space for studies involving communication between participants, teamwork, or group interviews. 
+The BEL is a multidisciplinary and state of the art research facility for studying individual and group decision-making in a controlled experimental setting. It is a laboratory consisting of 19 PCs, separated by privacy blinds, which are interconnected in order to allow real-time interactions between lab participants, either individually or as groups. The BEL contains a projector and screen for the delivery of experimental instructions, and space for experiments involving communication between participants, teamwork, or group interviews. 
+
+<img class="right" src="{{ site.baseurl }}images/Lab2.png"alt="" title="The BEL">
 
 ## Software
 
